@@ -1,0 +1,10 @@
+D:\test\RandBag\RandBag\bin\Release\RandBag.exe.config
+D:\test\RandBag\RandBag\bin\Release\RandBag.exe
+D:\test\RandBag\RandBag\bin\Release\RandBag.pdb
+D:\test\RandBag\RandBag\obj\Release\RandBag.Form1.resources
+D:\test\RandBag\RandBag\obj\Release\RandBag.Form2.resources
+D:\test\RandBag\RandBag\obj\Release\RandBag.Properties.Resources.resources
+D:\test\RandBag\RandBag\obj\Release\RandBag.csproj.GenerateResource.Cache
+D:\test\RandBag\RandBag\obj\Release\RandBag.exe
+D:\test\RandBag\RandBag\obj\Release\RandBag.pdb
+D:\test\RandBag\RandBag\obj\Release\RandBag.csprojResolveAssemblyReference.cache
